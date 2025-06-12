@@ -31,6 +31,7 @@ Herfra her man kommandoer for å:
 - dw = slett frem til neste ord
 - yb = kopier bakover til forrige ord
 - c$ = slett alt frem til slutten av linjen, og sett meg inn i insert modus
+- Sisnevte er såpass populær at den har fått sin egen shortcut C
 
 
 ### Eksempler på mer avanserte aksjoner
