@@ -9,9 +9,9 @@
 - Terminalbasert teksteditor ++++
 
 ## Hvorfor vim? Det er jo eldgammelt (1976!)
-- Vim er en filosofi som skiller seg fra vanlige editor. 
+- Vim er en filosofi som skiller seg fra vanlige editorer. 
 - Designet rundt idéen om at det er forksjell på å *redigere* tekst og *skrive* tekst.
-- Vim antar at du brukes mesteparten av tiden på å redigere tekst, og har derfor optimalisert for det. 
+- Vim antar at du bruker mesteparten av tiden på å redigere tekst, og har derfor optimalisert for det. 
 
 
 ## Vim kan brukes mange steder
