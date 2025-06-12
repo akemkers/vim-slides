@@ -15,28 +15,28 @@ Herfra her man kommandoer for å:
 - en *operasjon* er en kommando som gjør noe med bevegelsen
 
 ### Noen bevegelser
-w = gå til neste ord
-b = gå til forrige ord
-e = gå til enden av et ord
-$ = gå til slutten av en linje
-_ = gå til starten av en linje
+- w = gå til neste ord
+- b = gå til forrige ord
+- e = gå til enden av et ord
+- $ = gå til slutten av en linje
+- _ = gå til starten av en linje
 
 ### Noen operasjoner
-d (delete)= slette
-c (change)= endre
-v (visual) = visualisere
-y (yank) = kopiere
+- d (delete)= slette
+- c (change)= endre
+- v (visual) = visualisere
+- y (yank) = kopiere
 
 ### Eksempler på aksjoner
-dw = slett frem til neste ord
-yb = kopier bakover til forrige ord
-c$ = slett alt frem til slutten av linjen, og sett meg inn i insert modus
+- dw = slett frem til neste ord
+- yb = kopier bakover til forrige ord
+- c$ = slett alt frem til slutten av linjen, og sett meg inn i insert modus
 
 
 ### Eksempler på mer avanserte aksjoner
-di" = slett alt _inni_ nærmeste fnutter
-ci( = slett alt _inni_ nærmeste paranteser
-va{ = visualiser alt _rundt_ nærmeste krøllparanteser
+- di" = slett alt _inni_ nærmeste fnutter
+- ci( = slett alt _inni_ nærmeste paranteser
+- va{ = visualiser alt _rundt_ nærmeste krøllparanteser
 
 ```js 
 
@@ -51,8 +51,8 @@ function myTestFunction(arg) {
 
 
 ### Eksempler på søke-bevegelser
-/ = gå til første treff på søk etter noe. Deretter n for neste treff eller N for forrige
-f + bokstav = gå til første treff på en bokstav på denne linjen (semi for neste, komma for forrige )
+- / = gå til første treff på søk etter noe. Deretter n for neste treff eller N for forrige
+- f + bokstav = gå til første treff på en bokstav på denne linjen (semi for neste, komma for forrige )
 
 
 
